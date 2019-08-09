@@ -1,0 +1,8 @@
+SCALAR_VARIABLE_FROM_FILE: abcd
+LIST_VARIABLE_FROM_FILE:
+  - a
+  - b
+  - c
+DICTIONARY_VARIABLE_FROM_FILE:
+  given_name: lukasz
+  family_name: buraczyk
